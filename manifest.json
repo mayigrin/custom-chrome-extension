@@ -1,0 +1,9 @@
+{
+    "name": "Maya's Homemade Chrome Extension",
+    "version": "1.0",
+    "description": "Personal project: my own homemade chrome extension",
+    "chrome_url_overrides" : {
+	"newtab": "newTab.html"
+    },
+    "manifest_version": 2
+}
