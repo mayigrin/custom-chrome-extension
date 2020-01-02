@@ -18,7 +18,7 @@ Here's an image of what the extension looks like:
 ## How to use this extension
 If you'd like to use this extension for yourself, or perhaps use parts of it and modify the rest, here's how you will need to set it up.
 
-First, clone this repository. If you'd like to change the links or make any other edits to the page, you will likely want to do that in either the `newTab.html` file or the `scripts.js` file. Once you've made your desired changes (if any), open Chrome and navigate to `chrome://extensions/`. Click the toggle in the upper-right corner marker "Developer Mode". You should then see three new buttons towards the top of your screen. Click "Load Unpacked", and then select the folder containing this repository. You can then turn off Developer Mode. Now, when you open up a new tab, you should see the customized page!
+First, clone this repository. If you'd like to change the links or make any other edits to the page, you will likely want to do that in either the `newTab.html` file or the `script.js` file. Once you've made your desired changes (if any), open Chrome and navigate to `chrome://extensions/`. Click the toggle in the upper-right corner marker "Developer Mode". You should then see three new buttons towards the top of your screen. Click "Load Unpacked", and then select the folder containing this repository. You can then turn off Developer Mode. Now, when you open up a new tab, you should see the customized page!
 
 If you'd like to also make it so that Chrome opens up to this page, you can do that by navigating to `chrome://settings/defaultBrowser` and selecting "Open the New Tab page" in the "On Startup" section.
 
