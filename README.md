@@ -11,7 +11,8 @@
 The code in this repository is for custom-built Chrome extension that overrides the "new tab" page and instead shows an html page displaying the current date & time, useful links, and a notepad that can be edited and saved, meaning the notes persist even when the page is closed.
 
 Here's an image of what the extension looks like:
-![Extension Image](extension.jpg)
+
+![Extension Image](extension.JPG)
 
 
 ## How to use this extension
