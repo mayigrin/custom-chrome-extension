@@ -28,6 +28,7 @@ Here are some sources I used to make this extension:
 * https://eqdn.tech/html5-note-app-tutorial/
 * https://www.w3schools.com/w3css/w3css_templates.asp
 * https://www.w3schools.com/js/js_date_methods.asp
+* https://www.scaler.com/topics/compare-dates-in-javascript/
 
 If you'd like to use or modify this code, please feel free! If you do end up making it somehow publicly available, please include a link to this repository or some other form of credit.
 
